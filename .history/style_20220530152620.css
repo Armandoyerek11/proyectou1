@@ -39,8 +39,7 @@ h2 {
 }
 
 img.fondo {
-    padding: 6px;
-    margin: 6px;
+    width: 130px;
+    height: 130px;
     float: right;
-    display: block;
 }

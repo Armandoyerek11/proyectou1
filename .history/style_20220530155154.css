@@ -44,3 +44,9 @@ img.fondo {
     float: right;
     display: block;
 }
+
+#principal {
+    background-image: url("./fondo.jpeg");
+    background-repeat: no-repeat;
+    background-position: 50px 50px;
+}

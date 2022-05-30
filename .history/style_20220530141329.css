@@ -17,7 +17,6 @@ nav {
 
 .nav_bar:hover {
     background: rgb(255, 251, 251);
-    text-align: center;
 }
 
 h1 {
@@ -36,11 +35,4 @@ h2 {
     right: 10ch;
     transform: translatex(15%) translatey(15%);
     font-family: Arial, Helvetica, sans-serif;
-}
-
-img.fondo {
-    padding: 6px;
-    margin: 6px;
-    float: right;
-    display: block;
 }

@@ -38,9 +38,6 @@ h2 {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-img.fondo {
-    padding: 6px;
-    margin: 6px;
-    float: right;
-    display: block;
+h3 {
+    transform: translatex(90%) translatey(15%);
 }

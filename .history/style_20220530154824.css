@@ -44,3 +44,7 @@ img.fondo {
     float: right;
     display: block;
 }
+
+#principal {
+    background-image: url("fondo");
+}

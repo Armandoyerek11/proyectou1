@@ -39,8 +39,8 @@ h2 {
 }
 
 img.fondo {
-    padding: 6px;
-    margin: 6px;
+    padding: 3px;
+    margin: 3px;
     float: right;
-    display: block;
+    transform: translatex(50%) translatey(50%);
 }
